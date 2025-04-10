@@ -10,6 +10,15 @@
 
 **OldFashionedLimits** is a Minecraft data pack which rollbacks Minecraft height limits back to pre-1.17 versions _just like in old times._
 
+## Quick Start
+
+### Features:
+
+- **Old build limit.** The maximum build height limit is now 256 blocks up,
+  _just like in old times!_
+- **No negative height.** The data pack removes negative height from
+  your world.
+
 ## Contact me:
 
 <a href="https://github.com/JustHm228" target="_blank">
