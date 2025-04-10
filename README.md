@@ -12,6 +12,8 @@
 
 ## Quick Start
 
+### Installation:
+
 <a href="https://fabricmc.net" target="_blank">
   <img src="https://github.com/intergrav/devins-badges/raw/refs/heads/v3/assets/cozy/supported/fabric_vector.svg" height="48" alt="platform-fabric" title="Supports Fabric">
 </a>
@@ -23,6 +25,22 @@
 <a href="https://quiltmc.net" target="_blank">
   <img src="https://github.com/intergrav/devins-badges/raw/refs/heads/v3/assets/cozy/supported/quilt_vector.svg" height="48" alt="platform-quilt" title="Supports Quilt">
 </a>
+
+> [!WARNING] 
+> This data pack/mod should not be installed in already created worlds!
+> If you want to install it, please create a new world.
+
+#### Install as data pack:
+
+Please ensure that you have the following software installed:
+- [Minecraft](<https://minecraft.net/>) \($\ge$ 1.19.4\)
+
+To install the data pack to your Minecraft world, you should:
+1. Open the world creation screen.
+2. Go to "Data packs" section.
+3. Drag and drop this data pack in the game window.
+4. Agree with experimental content warning.
+5. Create the new world.
 
 ### Features:
 
