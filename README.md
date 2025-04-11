@@ -35,30 +35,30 @@
   <img src="https://raw.githubusercontent.com/intergrav/devins-badges/74adf3b26de1006e9ec9fcffff17322ae3962f9b/assets/cozy/supported/neoforge_vector-cozy.svg" height="48" alt="platform-neoforge" title="Supports NeoForge">
 </a>
 
-#### 🛠️ Install as data pack:
+> #### 🛠️ Install as data pack:
+> 
+> Please ensure that you have the following software installed:
+> - [Minecraft](<https://minecraft.net/>) \($\ge$ 1.19.4\)
+> 
+> To install the data pack to your Minecraft world, you should:
+> 1. Open the world creation screen.
+> 2. Go to "Data packs" menu.
+> 3. Drag and drop this data pack to the game window.
+> 4. Accept/ignore the experimental content warning.
+> 5. Create a new world.
 
-Please ensure that you have the following software installed:
-- [Minecraft](<https://minecraft.net/>) \($\ge$ 1.19.4\)
-
-To install the data pack to your Minecraft world, you should:
-1. Open the world creation screen.
-2. Go to "Data packs" menu.
-3. Drag and drop this data pack to the game window.
-4. Accept/ignore the experimental content warning.
-5. Create a new world.
-
-#### ⚙️ Install as mod:
-
-Please ensure that you have the following software installed:
-- [Minecraft](<https://minecraft.net/>) \($\ge$ 1.19.4\)
-- Mod loader ([Fabric](<https://fabricmc.net>), [Forge](<https://files.minecraftforge.net>),
-  [Quilt](<https://quiltmc.net>), [NeoForge](<https://neoforged.net>))
-
-To install the mod to your client/server, you should:
-1. Download the latest version.
-2. Place it to the ``mods`` directory in the Minecraft/server root folder.
-3. Accept/ignore the experimental content warning.
-4. Create a new world.
+> #### ⚙️ Install as mod:
+> 
+> Please ensure that you have the following software installed:
+> - [Minecraft](<https://minecraft.net/>) \($\ge$ 1.19.4\)
+> - Mod loader ([Fabric](<https://fabricmc.net>), [Forge](<https://files.minecraftforge.net>),
+>   [Quilt](<https://quiltmc.net>), [NeoForge](<https://neoforged.net>))
+> 
+> To install the mod to your client/server, you should:
+> 1. Download the latest version.
+> 2. Place it to the ``mods`` directory in the Minecraft/server root folder.
+> 3. Accept/ignore the experimental content warning.
+> 4. Create a new world.
 
 ### 💡 Features:
 
