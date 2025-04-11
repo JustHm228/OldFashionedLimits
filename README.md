@@ -80,3 +80,8 @@
 <a href="https://matrix.to/#/@justhm228:matrix.org" target="_blank">
   <img src="https://github.com/intergrav/devins-badges/raw/refs/heads/v3/assets/cozy/social/matrix-singular_vector.svg" height="48" alt="social-matrix" title="Chat with me on Matrix">
 </a>
+
+## 🙌 Acknowledgements:
+
+This data pack/mod is based on code from [2032 World Height](<https://modrinth.com/datapack/2032-world-height>), 
+which is made by [Obydux](<https://modrinth.com/user/Obydux>).
