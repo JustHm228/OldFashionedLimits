@@ -42,10 +42,10 @@ Please ensure that you have the following software installed:
 
 To install the data pack to your Minecraft world, you should:
 1. Open the world creation screen.
-2. Go to "Data packs" section.
-3. Drag and drop this data pack in the game window.
-4. Agree with experimental content warning.
-5. Create the new world.
+2. Go to "Data packs" menu.
+3. Drag and drop this data pack to the game window.
+4. Accept/ignore the experimental content warning.
+5. Create a new world.
 
 #### Install as mod:
 
@@ -57,7 +57,7 @@ Please ensure that you have the following software installed:
 To install the mod to your client/server, you should:
 1. Download the latest version.
 2. Place it to the ``mods`` directory in the Minecraft/server root folder.
-3. Agree with experimental content warning.
+3. Accept/ignore the experimental content warning.
 4. Create a new world.
 
 ### Features:
