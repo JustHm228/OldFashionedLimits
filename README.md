@@ -14,6 +14,11 @@
 
 ### Installation:
 
+> [!WARNING]
+>
+> This data pack/mod should not be installed in already created worlds!
+> If you want to install it, please create a new world.
+
 <a href="https://fabricmc.net" target="_blank">
   <img src="https://github.com/intergrav/devins-badges/raw/refs/heads/v3/assets/cozy/supported/fabric_vector.svg" height="48" alt="platform-fabric" title="Supports Fabric">
 </a>
@@ -29,10 +34,6 @@
 <a href="https://neoforged.net" target="_blank">
   <img src="https://raw.githubusercontent.com/intergrav/devins-badges/74adf3b26de1006e9ec9fcffff17322ae3962f9b/assets/cozy/supported/neoforge_vector-cozy.svg" height="48" alt="platform-neoforge" title="Supports NeoForge">
 </a>
-
-> [!WARNING] 
-> This data pack/mod should not be installed in already created worlds!
-> If you want to install it, please create a new world.
 
 #### Install as data pack:
 
