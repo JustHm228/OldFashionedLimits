@@ -8,7 +8,7 @@
   <img src="https://github.com/intergrav/devins-badges/raw/refs/heads/v3/assets/cozy/available/github_vector.svg" height="48" alt="github" title="Available on GitHub">
 </a>
 
-**OldFashionedLimits** is a Minecraft data pack which rollbacks Minecraft height limits back to pre-1.17 versions _just like in old times._
+**OldFashionedLimits** is a Minecraft data pack/mod which rollbacks Minecraft height limits back to pre-1.17 versions _just like in old times._
 
 ## 🚀 Quick Start
 
