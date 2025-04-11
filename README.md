@@ -10,9 +10,9 @@
 
 **OldFashionedLimits** is a Minecraft data pack which rollbacks Minecraft height limits back to pre-1.17 versions _just like in old times._
 
-## Quick Start
+## 🚀 Quick Start
 
-### Installation:
+### 📥 Installation:
 
 > [!WARNING]
 >
@@ -35,7 +35,7 @@
   <img src="https://raw.githubusercontent.com/intergrav/devins-badges/74adf3b26de1006e9ec9fcffff17322ae3962f9b/assets/cozy/supported/neoforge_vector-cozy.svg" height="48" alt="platform-neoforge" title="Supports NeoForge">
 </a>
 
-#### Install as data pack:
+#### 🛠️ Install as data pack:
 
 Please ensure that you have the following software installed:
 - [Minecraft](<https://minecraft.net/>) \($\ge$ 1.19.4\)
@@ -47,7 +47,7 @@ To install the data pack to your Minecraft world, you should:
 4. Accept/ignore the experimental content warning.
 5. Create a new world.
 
-#### Install as mod:
+#### ⚙️ Install as mod:
 
 Please ensure that you have the following software installed:
 - [Minecraft](<https://minecraft.net/>) \($\ge$ 1.19.4\)
@@ -60,14 +60,14 @@ To install the mod to your client/server, you should:
 3. Accept/ignore the experimental content warning.
 4. Create a new world.
 
-### Features:
+### 💡 Features:
 
 - **Old build limit.** The maximum build height limit is now 256 blocks up,
   _just like in old times!_
 - **No negative height.** The data pack removes negative height from
   your world.
 
-## Contact me:
+## 📭 Contact me:
 
 <a href="https://github.com/JustHm228" target="_blank">
   <img src="https://github.com/intergrav/devins-badges/raw/refs/heads/v3/assets/cozy/social/github-singular_vector.svg" height="48" alt="social-github" title="See me on GitHub">
