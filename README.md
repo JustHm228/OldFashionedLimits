@@ -47,6 +47,19 @@ To install the data pack to your Minecraft world, you should:
 4. Agree with experimental content warning.
 5. Create the new world.
 
+#### Install as mod:
+
+Please ensure that you have the following software installed:
+- [Minecraft](<https://minecraft.net/>) \($\ge$ 1.19.4\)
+- Mod loader ([Fabric](<https://fabricmc.net>), [Forge](<https://files.minecraftforge.net>),
+  [Quilt](<https://quiltmc.net>), [NeoForge](<https://neoforged.net>))
+
+To install the mod to your client/server, you should:
+1. Download the latest version.
+2. Place it to the ``mods`` directory in the Minecraft/server root folder.
+3. Agree with experimental content warning.
+4. Create a new world.
+
 ### Features:
 
 - **Old build limit.** The maximum build height limit is now 256 blocks up,
