@@ -1,7 +1,7 @@
 ---
 name: Feature request
 about: Suggest an idea to implement in the data pack
-title: "[BUG] "
+title: "[FEATURE] "
 labels: enhancement
 assignees: JustHm228
 
